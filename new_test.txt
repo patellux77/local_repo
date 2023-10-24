@@ -4,3 +4,5 @@ new local repo
 all ok
 
 all fine
+
+not okk
