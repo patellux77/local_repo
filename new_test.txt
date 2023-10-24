@@ -1,4 +1,7 @@
 Hello world!
 new local repo
 
+all ok
+
+all fine
 all currect
